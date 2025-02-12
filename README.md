@@ -15,6 +15,8 @@ ___
 
 ### Please find an [interative page with both charts here](https://legallynotblonde.github.io/belly-button-challenge/).
 
+![Static Dashboard](https://legallynotblonde.github.io/belly-button-challenge/)
+
 ___
 
 **References**
